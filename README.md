@@ -1,38 +1,31 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+# Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 
-<div id="badges">
-  <a href="https://instagram.com/alfatih_r22" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alfatihritonga/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin-in&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-  <img src="https://komarev.com/ghpvc/?username=alfatihritonga&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=alfatihritonga&style=flat-square&color=blue" alt=""/>
   
-## 🚀 About Me
-- 🌱 I’m currently learning **Go**
-- 💬 Ask me about programming, open source, or tech-related topics
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alfatihritonga/)
+### :man_technologist: About Me :
+- 🚀 I’m currently learning **Go**
+- 💬 Ask me about anything...
 
-## 🛠️ Languages and Tools
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap5-000?&logo=bootstrap)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?&logo=tailwindcss)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![Go](https://img.shields.io/badge/-Go-000?&logo=go)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
-
-
+### :hammer_and_wrench: Languages and Tools :
 <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=alfatihritonga" height="150" alt="languages graph"  />
-## 🌍 Find Me On
-- [LinkedIn](https://www.linkedin.com/in/alfatihritonga/)
+
+<p>
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-2196f3?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f7e018?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="Bootstrap5" src="https://img.shields.io/badge/-Bootstrap5-712cf9?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/-TailwindCSS-0ea5e9?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <br/>
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-7989c2?style=flat-square&logo=php&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-f9322c?style=flat-square&logo=Laravel&logoColor=white" />
+  <img alt="Go" src="https://img.shields.io/badge/-Go-007d9c?style=flat-square&logo=go&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-00627b?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-f14e32?style=flat-square&logo=git&logoColor=white" />
+</p>
 
 ---
 
-Feel free to connect and collaborate!
+### Find me on Linkedin:
+<p align="left">
+<a href = "https://www.linkedin.com/in/alfatihritonga/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+</p>
